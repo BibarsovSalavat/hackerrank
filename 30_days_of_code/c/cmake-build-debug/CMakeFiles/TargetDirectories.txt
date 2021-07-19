@@ -1,3 +1,0 @@
-/home/salavat/Проекты/hackerrank/30_days_of_code/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/salavat/Проекты/hackerrank/30_days_of_code/c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/salavat/Проекты/hackerrank/30_days_of_code/c/cmake-build-debug/CMakeFiles/c.dir
